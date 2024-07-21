@@ -1,6 +1,6 @@
 # custom-templates
 
-Custom templates with boilerplate code for different types of projects
+Список репозиториев с кастомными шаблонами для проектов
 
 ## [vite-vue3-ts-template](https://github.com/DanilChugaev/vite-vue3-ts-template) - for vue3 projects with typescript
 
